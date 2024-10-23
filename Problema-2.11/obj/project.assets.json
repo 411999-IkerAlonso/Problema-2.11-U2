@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\syste\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\KIKER\\FACULTAD\\PROGRAMACION I\\LOGICA\\UNIDAD 2\\EJERCICIOS\\Problema-2.11\\Problema-2.11\\Problema-2.11.csproj",
+      "projectUniqueName": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 2\\EJERCICIOS\\Problema-2.11\\Problema-2.11\\Problema-2.11.csproj",
       "projectName": "Problema-2.11",
-      "projectPath": "C:\\Users\\usuario\\Desktop\\KIKER\\FACULTAD\\PROGRAMACION I\\LOGICA\\UNIDAD 2\\EJERCICIOS\\Problema-2.11\\Problema-2.11\\Problema-2.11.csproj",
-      "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\Desktop\\KIKER\\FACULTAD\\PROGRAMACION I\\LOGICA\\UNIDAD 2\\EJERCICIOS\\Problema-2.11\\Problema-2.11\\obj\\",
+      "projectPath": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 2\\EJERCICIOS\\Problema-2.11\\Problema-2.11\\Problema-2.11.csproj",
+      "packagesPath": "C:\\Users\\syste\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 2\\EJERCICIOS\\Problema-2.11\\Problema-2.11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\syste\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

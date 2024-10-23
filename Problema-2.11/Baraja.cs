@@ -46,7 +46,10 @@ namespace Problema_2._11
             Random rnd = new Random();
             for(int i = 0;i < 40; i++)
             {
-                cartas[i]= 
+                int j = rnd.Next(0 , i +1);
+                Carta temporal = cartas[i];
+                cartas[i] = cartas[j];
+                cartas[j] = temporal;
             }
         }
     }
