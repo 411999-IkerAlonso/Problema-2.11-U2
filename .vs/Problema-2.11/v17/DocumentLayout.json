@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 2\\EJERCICIOS\\Problema-2.11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98872F1E-085A-4CB4-B772-81CD0E9DB54C}|Problema-2.11\\Problema-2.11.csproj|c:\\users\\syste\\onedrive\\escritorio\\facultad\\cursado\\primer cuatrimestre\\programacion\\logica\\unidad 2\\ejercicios\\problema-2.11\\problema-2.11\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98872F1E-085A-4CB4-B772-81CD0E9DB54C}|Problema-2.11\\Problema-2.11.csproj|solutionrelative:problema-2.11\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{98872F1E-085A-4CB4-B772-81CD0E9DB54C}|Problema-2.11\\Problema-2.11.csproj|c:\\users\\syste\\onedrive\\escritorio\\facultad\\cursado\\primer cuatrimestre\\programacion\\logica\\unidad 2\\ejercicios\\problema-2.11\\problema-2.11\\baraja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98872F1E-085A-4CB4-B772-81CD0E9DB54C}|Problema-2.11\\Problema-2.11.csproj|solutionrelative:problema-2.11\\baraja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98872F1E-085A-4CB4-B772-81CD0E9DB54C}|Problema-2.11\\Problema-2.11.csproj|c:\\users\\syste\\onedrive\\escritorio\\facultad\\cursado\\primer cuatrimestre\\programacion\\logica\\unidad 2\\ejercicios\\problema-2.11\\problema-2.11\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98872F1E-085A-4CB4-B772-81CD0E9DB54C}|Problema-2.11\\Problema-2.11.csproj|solutionrelative:problema-2.11\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98872F1E-085A-4CB4-B772-81CD0E9DB54C}|Problema-2.11\\Problema-2.11.csproj|c:\\users\\syste\\onedrive\\escritorio\\facultad\\cursado\\primer cuatrimestre\\programacion\\logica\\unidad 2\\ejercicios\\problema-2.11\\problema-2.11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,26 +34,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Baraja.cs",
               "DocumentMoniker": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 2\\EJERCICIOS\\Problema-2.11\\Problema-2.11\\Baraja.cs",
               "RelativeDocumentMoniker": "Problema-2.11\\Baraja.cs",
               "ToolTip": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 2\\EJERCICIOS\\Problema-2.11\\Problema-2.11\\Baraja.cs",
               "RelativeToolTip": "Problema-2.11\\Baraja.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwDQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T01:09:57.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Carta.cs",
               "DocumentMoniker": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 2\\EJERCICIOS\\Problema-2.11\\Problema-2.11\\Carta.cs",
               "RelativeDocumentMoniker": "Problema-2.11\\Carta.cs",
               "ToolTip": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 2\\EJERCICIOS\\Problema-2.11\\Problema-2.11\\Carta.cs",
               "RelativeToolTip": "Problema-2.11\\Carta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T00:33:26.832Z",
               "EditorCaption": ""

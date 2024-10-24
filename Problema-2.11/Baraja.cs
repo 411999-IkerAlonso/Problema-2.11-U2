@@ -52,5 +52,28 @@ namespace Problema_2._11
                 cartas[j] = temporal;
             }
         }
+
+        public Carta SiguienteCarta()
+        {
+            Carta ultimaCarta = new Carta();
+            for (int i = 0; i < 40; i++)
+            {
+                if (i > 0 && i < cartas.Length)
+                {
+                    ultimaCarta = cartas[i + 1];
+                }
+                else
+                {
+                    ultimaCarta = null;
+                    Console.WriteLine("Ya ha salido la ultima carta");
+                }
+            }
+            return ultimaCarta;
+        }
+
+        public int[] DarCartas()
+        {
+
+        }
     }
 }

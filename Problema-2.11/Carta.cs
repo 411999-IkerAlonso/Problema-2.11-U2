@@ -11,6 +11,11 @@ namespace Problema_2._11
     {
         public int Numero { get; set; }
         public string Palo { get; set; }
+        public Carta()
+        {
+            Numero = 0;
+            Palo = string.Empty;
+        }
 
         public Carta(int numero, string palo)
         {
@@ -41,5 +46,7 @@ namespace Problema_2._11
                 Palo = string.Empty;
             }
         }
+
+
     }
 }
